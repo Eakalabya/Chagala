@@ -1,0 +1,3 @@
+﻿IP ZZONEPLAZ.aternos.me
+Port 38582
+Name Chagala
